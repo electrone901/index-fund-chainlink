@@ -1,0 +1,40 @@
+.headerflex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pieflex {
+  display: flex;
+}
+
+.indexdetailsbox {
+  background-color: #313848 !important;
+  padding: 30px 20px;
+  margin-bottom: 15px;
+}
+
+.linegraph {
+  width: 100% !important;
+  height: 330px !important;
+}
+
+.tradebtn{
+  float: right;
+  margin-top: 10px;
+}
+
+.piegraph {
+  width: 300px !important;
+  height: 280px !important;
+}
+
+.centerflex { 
+  display: flex;
+  align-items: center;
+}
+
+.checkicon {
+  width: 75px;
+  margin-top: 30px;
+}

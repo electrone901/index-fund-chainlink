@@ -1,0 +1,101 @@
+.container {
+    padding: 0 10px;
+    width: 100%;
+}
+
+.step {
+    margin: auto;
+}
+
+.stepmain {
+    max-width: 600px;
+}
+
+.createtext {
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.stepper {
+    width: 100% !important;
+    margin-top: 30px;
+    background-color: transparent !important;
+}
+
+.stepheader {
+    border-left: #542ab3 7px solid;
+    padding-left: 10px;
+    margin-left: 7px;
+}
+
+.css-1be5mm1-MuiLinearProgress-root-MuiMobileStepper-progress {
+    width: 100% !important;
+    background-color: white !important;
+}
+
+.css-5xe99f-MuiLinearProgress-bar1 {
+    background-color: #542ab3 !important;
+}
+
+.step-subtitle {
+    font-weight: 250;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.step-title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    letter-spacing: 0.03em;
+}
+
+.step-input {
+    margin-left: 1.3rem;
+    width: 250px;
+    height: 45px;
+    left: 99px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 40px;
+    padding: 20px;
+}
+
+.step-btn {
+    width: 300px !important;
+    height: 55px !important;
+    background-color: #5a55c1 !important;
+    border-radius: 10px !important;
+    text-transform: none !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    line-height: 33px !important;
+    letter-spacing: 0.03em !important;
+}
+
+.input-container {
+    margin-left: 2rem;
+}
+
+.input-dashes {
+    width: 200px;
+    height: 70px;
+    background: #313848;
+    border: 3px dashed #ffffff;
+    border-radius: 20px;
+    margin-right: 2rem;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 35px;
+    letter-spacing: 0.03em;
+    color: #b7bcc8;
+    text-align: center;
+}
+
+.percentage-input {
+    margin-left: 3rem;
+    width: 167px;
+    height: 40px;
+    background: #ffffff;
+    border-radius: 40px;
+    padding: 1rem;
+}
